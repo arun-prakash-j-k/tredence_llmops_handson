@@ -1,3 +1,9 @@
+# wandb - artifacts, datasets & run traces
+WANDB_WB/artifacts/
+WANDB_WB/MNIST/
+WANDB_WB/api.txt
+wandb/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
